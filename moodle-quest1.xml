@@ -1,0 +1,105 @@
+<quiz>
+  <question type="multichoice">
+    <name>
+      <text>No.1 Informed Consent Principle</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[What is the primary principle of informed consent in survey research]]></text>
+    </questiontext>
+    <shuffleanswers>true</shuffleanswers>
+    <answer fraction="0">
+      <text><![CDATA[participants should be given a financial incentive to complete the survey]]></text>
+    </answer>
+    <answer fraction="100">
+      <text><![CDATA[participants should be aware of the surveys purpose how their data will be used and their right to withdraw at any time]]></text>
+    </answer>
+    <answer fraction="0">
+      <text><![CDATA[researchers should complete the survey on behalf of the participants if they are unable to]]></text>
+    </answer>
+    <answer fraction="0">
+      <text><![CDATA[participants do not need to know the purpose of the survey as long as it is voluntary]]></text>
+    </answer>
+    <generalfeedback>
+      <text><![CDATA[Informed consent is critical for ethical survey practices. To learn more about informed consent, visit the Wikipedia page on Informed Consent <a href="https://en.wikipedia.org/wiki/Informed_consent" target="_BLANK">here</a>.]]></text>
+    </generalfeedback>
+    <defaultgrade>1.0</defaultgrade>
+  </question>
+  
+  <question type="multichoice">
+    <name>
+      <text>No.2 Unethical Survey Practices</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[Which of the following practices is NOT considered ethical when conducting a survey]]></text>
+    </questiontext>
+    <shuffleanswers>true</shuffleanswers>
+    <answer fraction="0">
+      <text><![CDATA[anonymizing responses to protect participant identity]]></text>
+    </answer>
+    <answer fraction="100">
+      <text><![CDATA[using leading questions to manipulate participant responses]]></text>
+    </answer>
+    <answer fraction="0">
+      <text><![CDATA[ensuring that participation is voluntary]]></text>
+    </answer>
+    <answer fraction="0">
+      <text><![CDATA[providing participants with the option to skip questions they do not want to answer]]></text>
+    </answer>
+    <generalfeedback>
+      <text><![CDATA[The use of leading questions can compromise survey integrity. For further information regarding ethical survey practices, please refer to the Wikipedia page on Survey Research Ethics <a href="https://en.wikipedia.org/wiki/Survey_research#Ethics" target="_BLANK">here</a>.]]></text>
+    </generalfeedback>
+    <defaultgrade>2.0</defaultgrade>
+  </question>
+
+  <question type="multichoice">
+    <name>
+      <text>No.3 Sensitive Data Considerations</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[Which of the following is an important ethical consideration when collecting sensitive data in surveys]]></text>
+    </questiontext>
+    <shuffleanswers>true</shuffleanswers>
+    <answer fraction="0">
+      <text><![CDATA[collecting all available data regardless of its sensitivity]]></text>
+    </answer>
+    <answer fraction="0">
+      <text><![CDATA[requiring participants to provide their real names and contact information]]></text>
+    </answer>
+    <answer fraction="100">
+      <text><![CDATA[ensuring data is securely stored and only accessible to authorized personnel]]></text>
+    </answer>
+    <answer fraction="0">
+      <text><![CDATA[framing sensitive questions in a way that pressures participants to answer truthfully]]></text>
+    </answer>
+    <generalfeedback>
+      <text><![CDATA[Ensuring data security is vital when handling sensitive information in surveys. For more details, you can visit the Wikipedia page on Data Privacy <a href="https://en.wikipedia.org/wiki/Data_privacy" target="_BLANK">here</a>.]]></text>
+    </generalfeedback>
+    <defaultgrade>4.0</defaultgrade>
+  </question>
+
+  <question type="multichoice">
+    <name>
+      <text>No.4 Addressing Participant Discomfort</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[What should a researcher do if a survey participant expresses discomfort during the survey process]]></text>
+    </questiontext>
+    <shuffleanswers>true</shuffleanswers>
+    <answer fraction="0">
+      <text><![CDATA[ignore the participants discomfort and continue with the survey]]></text>
+    </answer>
+    <answer fraction="0">
+      <text><![CDATA[offer a monetary incentive to encourage them to participate]]></text>
+    </answer>
+    <answer fraction="100">
+      <text><![CDATA[allow the participant to skip or withdraw from the survey without penalty]]></text>
+    </answer>
+    <answer fraction="0">
+      <text><![CDATA[convince the participant that their discomfort is unfounded and proceed with the survey]]></text>
+    </answer>
+    <generalfeedback>
+      <text><![CDATA[Addressing participant discomfort is essential for ethical research. For additional insights, visit the Wikipedia page on Ethical Research Standards <a href="https://en.wikipedia.org/wiki/Ethics_of_research_involving_humans" target="_BLANK">here</a>.]]></text>
+    </generalfeedback>
+    <defaultgrade>8.0</defaultgrade>
+  </question>
+</quiz>
