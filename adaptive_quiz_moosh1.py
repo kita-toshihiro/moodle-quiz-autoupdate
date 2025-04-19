@@ -6,7 +6,7 @@ import adaptive_quiz_moosh_mod1 as mm
 numsection = 3
 
 ## Create a new Moodle course
-out = shcmd('moosh -n course-create --format topics --numsections %d --fullname "Demo Course 1" demo1' % numsection)
+out = mm.shcmd('moosh -n course-create --format topics --numsections %d --fullname "Demo Course 1" demo1' % numsection)
 courseid = mm.get_courseid(out)
 
 ## Create quizzes for each participant (or you can manually create quizzes)
